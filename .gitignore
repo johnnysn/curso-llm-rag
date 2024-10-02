@@ -24,3 +24,6 @@ settings.json
 *.log
 *.tmp
 *.DS_Store
+
+# Database
+data/
