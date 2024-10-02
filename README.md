@@ -44,7 +44,7 @@ pip install -r requirements.txt
 Agora, você pode iniciar o Jupyter Notebook para acessar e executar os notebooks do projeto:
 
 ```bash
-pip install -r requirements.txt
+jupyter notebook
 ```
 
 O Jupyter irá abrir uma interface no navegador. A partir dela, você pode navegar até os notebooks do projeto e executá-los.
