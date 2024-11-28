@@ -2,6 +2,10 @@
 
 Este projeto contém exemplos didáticos utilizando [LangChain](https://www.langchain.com/) para a criação de aplicações com LLMs e RAG.
 
+## Pré-requisitos
+
+É necessário ter o [Ollama](https://ollama.com) instalado previamente, com os modelos `llama3.2` e `nomic-embed-text` baixados. 
+
 ## Configuração do ambiente
 
 ### 1. Instalar dependências essenciais
@@ -48,3 +52,10 @@ jupyter notebook
 ```
 
 O Jupyter irá abrir uma interface no navegador. A partir dela, você pode navegar até os notebooks do projeto e executá-los.
+
+
+### 6. Links úteis
+
+- [Canal do Youtube sobre Ollama e LLMs locais](https://www.youtube.com/@technovangelist)
+- [Web UI local para conversar com LLMs instaladas no Ollama](https://github.com/open-webui/open-webui)
+- [Construindo interfaces web para suas aplicações com Streamlit](https://www.youtube.com/watch?v=ZHZKPmzlBUY)
